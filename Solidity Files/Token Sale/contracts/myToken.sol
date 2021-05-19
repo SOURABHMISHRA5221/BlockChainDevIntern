@@ -48,7 +48,7 @@ contract MyToken{
         if (allowances < maxi ) {
             allowed[_from][msg.sender] -= _value;
         }
-        emit Transfer(_from, _to, _value); //solhint-disable-line indent, no-unused-vars
+        emit Transfer(_from, _to, _value);
         return true;
     }
    
