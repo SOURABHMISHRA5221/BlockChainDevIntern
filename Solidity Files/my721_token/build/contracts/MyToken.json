@@ -1,0 +1,119 @@
+{
+  "contractName": "MyToken",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.0+commit.c7dfd78e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/C/Users/soura/OneDrive/Desktop/Programming Files/Solidity Files/my721_token/contracts/MyToken.sol\":\"MyToken\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/soura/OneDrive/Desktop/Programming Files/Solidity Files/my721_token/contracts/MyToken.sol\":{\"keccak256\":\"0x3f712f6d92e76ee8d69de72a64171dea23f11819b8c57b719a1d2e5a118f5db2\",\"urls\":[\"bzz-raw://5ff0cbaa44c712d6eb85762f42babfc6d24c775103437545de31ab4dad889882\",\"dweb:/ipfs/QmacUWc75rbFjh27zn9TP7HKC2AzXnJ1hsvZbXjpoXiGGE\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212200ea8c049cacff923d24e95cea18287e5fd688640e20ffe39e866836a0370ee6a64736f6c63430008000033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212200ea8c049cacff923d24e95cea18287e5fd688640e20ffe39e866836a0370ee6a64736f6c63430008000033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "27:30:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "27:30:0:-:0;;;;;",
+  "source": "pragma solidity ^0.8.0;\r\n\r\ncontract MyToken{\r\n\r\n\r\n\r\n\r\n\r\n}",
+  "sourcePath": "C:/Users/soura/OneDrive/Desktop/Programming Files/Solidity Files/my721_token/contracts/MyToken.sol",
+  "ast": {
+    "absolutePath": "/C/Users/soura/OneDrive/Desktop/Programming Files/Solidity Files/my721_token/contracts/MyToken.sol",
+    "exportedSymbols": {
+      "MyToken": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "MyToken",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:30:0"
+      }
+    ],
+    "src": "0:57:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/soura/OneDrive/Desktop/Programming Files/Solidity Files/my721_token/contracts/MyToken.sol",
+    "exportedSymbols": {
+      "MyToken": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "MyToken",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:30:0"
+      }
+    ],
+    "src": "0:57:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.0+commit.c7dfd78e.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xb4A0ea6d64cCDc55aA1116b5b9A8b0d883C08F3b",
+      "transactionHash": "0x96cb72da363e8555cb3a261ca9c0d12f2183ef7ea5cccc7dc8aaa615749ccc7a"
+    }
+  },
+  "schemaVersion": "3.4.1",
+  "updatedAt": "2021-05-19T14:30:10.346Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
