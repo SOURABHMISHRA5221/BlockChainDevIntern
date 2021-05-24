@@ -1,0 +1,1 @@
+As of now, Contracts are not well orgainized but it is working properly. To play the token, Deploy CryptoHumanOwner.sol. 
