@@ -1,0 +1,3 @@
+[submodule "Solidity"]
+	path = Solidity
+	url = https://github.com/udacity/FlightSurety
